@@ -1,3 +1,5 @@
+/** .bind*/
+
 var person ={
     firstname: 'John',
     lasname: 'Doe',
